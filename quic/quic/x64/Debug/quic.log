@@ -1,0 +1,4 @@
+﻿  client.c
+C:\Users\user\source\repos\quic\quic\client.c(175,2): warning C4098: 'startClient': 'void' function returning a value
+C:\Users\user\source\repos\quic\quic\client.c(185,1): warning C4098: 'startClient': 'void' function returning a value
+  quic.vcxproj -> C:\Users\user\source\repos\quic\x64\Debug\quic.exe
